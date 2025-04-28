@@ -20,4 +20,3 @@ This Python project automatically generates a playlist based on the Billboard Ho
    ```bash
    pip install -r requirements.txt
 
-![Uploading ChatGPT Image Apr 28, 2025, 04_50_15 PM.png…]()

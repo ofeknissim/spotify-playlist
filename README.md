@@ -19,6 +19,5 @@ This Python project automatically generates a playlist based on the Billboard Ho
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
-![Uploading ChatGPT Image Apr 28, 2025<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
-RequestId:99cac6be-e01e-005c-7b44-b8b896000000
-Time:2025-04-28T13:47:41.6323480Z</Message><AuthenticationErrorDetail>Signed expiry time [Mon, 28 Apr 2025 13:46:54 GMT] must be after signed start time [Mon, 28 Apr 2025 13:47:41 GMT]</AuthenticationErrorDetail></Error>, 04_47_41 PM.png…]()
+
+![Uploading ChatGPT Image Apr 28, 2025, 04_50_15 PM.png…]()
